@@ -10,11 +10,12 @@ Me encuentro cursando la etapa final del bootcamp que es realizar un proyecto fi
 Me interesa pulir el conocimiento que tengo en programacion, realizando proyectos y despues aprender más lenguajes.
 
 ## ¿Tecnologias que manejo?
-![icons8-git-96](https://github.com/RobertoAR23/RobertoAR23-/assets/102274522/f0a87638-b89e-42f0-9aad-35291e462af0)
-![icons8-javascript-96](https://github.com/RobertoAR23/RobertoAR23-/assets/102274522/d23b6087-d4b9-42b1-9c9f-cb9f001ac40c)
-![icons8-nodejs-96](https://github.com/RobertoAR23/RobertoAR23-/assets/102274522/9fd3caf7-9a90-4bea-aa9b-cf9cede1d6cd)
-![icons8-postgres-96](https://github.com/RobertoAR23/RobertoAR23-/assets/102274522/1862e455-7d40-498d-8329-615b08c7fba9)
-![icons8-reaccionar-80](https://github.com/RobertoAR23/RobertoAR23-/assets/102274522/00318662-ca88-4c60-8a47-374ced3e1be6)
+![icons8-git-96](https://github.com/RobertoAR23/RobertoAR23/assets/102274522/06de680c-46fe-4437-832c-d6872f41aaf3)
+![icons8-javascript-96](https://github.com/RobertoAR23/RobertoAR23/assets/102274522/903dc378-46be-422a-ade4-e9e3dc2ba396)
+![icons8-nodejs-96](https://github.com/RobertoAR23/RobertoAR23/assets/102274522/92075bb2-03b8-4a3b-8355-7168531a7e66)
+![icons8-postgres-96](https://github.com/RobertoAR23/RobertoAR23/assets/102274522/9e2941ed-1fa6-4b3e-8c14-b2d039acd79b)
+![icons8-reaccionar-80](https://github.com/RobertoAR23/RobertoAR23/assets/102274522/494ae2fb-cd34-4a77-8f60-5cb9b3d85fca)
+
 
 ## Contactame
 Correo: Robertoarregui23@gmail.com
