@@ -16,6 +16,7 @@ Me interesa pulir el conocimiento que tengo en programacion, realizando proyecto
 ![icons8-postgres-96](https://github.com/RobertoAR23/RobertoAR23/assets/102274522/9e2941ed-1fa6-4b3e-8c14-b2d039acd79b)
 ![icons8-reaccionar-80](https://github.com/RobertoAR23/RobertoAR23/assets/102274522/494ae2fb-cd34-4a77-8f60-5cb9b3d85fca)
 ![317755_badge_html_html5_achievement_award_icon(1)](https://github.com/RobertoAR23/RobertoAR23/assets/102274522/f82703a2-a5cd-4b68-86fa-62025efe4993)
+![icons8-css-100](https://github.com/RobertoAR23/RobertoAR23/assets/102274522/b90fb99e-5062-48cd-947f-6473077e0876)
 
 ## Contactame
 Correo: Robertoarregui23@gmail.com
