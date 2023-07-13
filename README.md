@@ -4,7 +4,7 @@
 Soy un ingeniero mecatrónico de 23 años de México, con habilidades en desarrollo full stack. Después de completar mi licenciatura en ingeniería mecatrónica, decidí ampliar mis conocimientos en programación mediante la participación en el bootcamp de SoyHenry. Ahora, estoy buscando oportunidades para ingresar al campo tecnológico como desarrollador full stack.
 
 ## ¿Que hago?
-Me encuentro cursando la etapa final del bootcamp que es realizar un proyecto final en equipo. **Implementando las tecnologias que hemos aprendido y metodologias de trabajo agil**
+Me estoy enfocando mas en la parte del front-end, estoy familiarizandome 100% con tailwind e inicio a aprender typescript
 
 ## ¿Hacia donde voy?
 Me interesa pulir el conocimiento que tengo en programacion, realizando proyectos y despues aprender más lenguajes.
