@@ -1,7 +1,7 @@
 # HELLO WORLD! SOY ROBERTO ARREGUI ROSAS ![icons8-laptop-48](https://github.com/RobertoAR23/RobertoAR23/assets/102274522/74ddbdbb-151b-4df8-8597-01f5f0fe8a68)
 
 ## ¿Quien soy?
-Soy un ingeniero mecatrónico de 23 años de México, con habilidades en desarrollo full stack. Después de completar mi licenciatura en ingeniería mecatrónica, decidí ampliar mis conocimientos en programación mediante la participación en el bootcamp de SoyHenry. Actualmente, estoy buscando oportunidades para ingresar al campo tecnológico como desarrollador full stack.
+Soy un ingeniero mecatrónico de 24 años de México, con habilidades en desarrollo full stack. Después de completar mi licenciatura en ingeniería mecatrónica, decidí ampliar mis conocimientos en programación mediante la participación en el bootcamp de SoyHenry. Actualmente, estoy buscando oportunidades para ingresar al campo tecnológico como desarrollador full stack.
 
 ## ¿Que hago?
 Me estoy enfocando mas en la parte del front-end, estoy familiarizandome 100% con tailwind e inicio a aprender next.js
