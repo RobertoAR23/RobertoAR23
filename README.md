@@ -3,8 +3,6 @@
 ## ¿Quien soy?
 Soy un ingeniero mecatrónico de 24 años de México, con habilidades en desarrollo full stack. Después de completar mi licenciatura en ingeniería mecatrónica, decidí ampliar mis conocimientos en programación mediante la participación en el bootcamp de SoyHenry. Actualmente, laboro como front end en Niku car.
 
-## ¿Que hago?
-Me estoy enfocando mas en la parte del front-end, estoy familiarizandome 100% con tailwind e inicio a aprender next.js
 
 ## ¿Hacia donde voy?
 Me interesa pulir el conocimiento que tengo en programacion, realizando proyectos y despues aprender más frameworks.
