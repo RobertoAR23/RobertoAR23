@@ -1,22 +1,32 @@
-# HELLO WORLD! SOY ROBERTO ARREGUI ROSAS ![icons8-laptop-48](https://github.com/RobertoAR23/RobertoAR23/assets/102274522/74ddbdbb-151b-4df8-8597-01f5f0fe8a68)
+# Hola, soy Roberto Arregui Rosas
 
-## ¿Quien soy?
-Soy un ingeniero mecatrónico de 25 años de México, con habilidades en desarrollo full stack. Después de completar mi licenciatura en ingeniería mecatrónica, decidí ampliar mis conocimientos en programación mediante la participación en el bootcamp de SoyHenry. Actualmente, laboro como front end en Niku car.
+## ¿Quién soy?
 
+Ingeniero mecatrónico con enfoque en desarrollo web full stack. Cuento con formación profesional complementada por el bootcamp de SoyHenry, donde consolidé bases sólidas en desarrollo de aplicaciones modernas.
 
-## ¿Hacia donde voy?
-Me interesa pulir el conocimiento que tengo en programacion, realizando proyectos y despues aprender más frameworks.
+## ¿Hacia dónde voy?
 
-## ¿Tecnologias que manejo?
-![icons8-git-96](https://github.com/RobertoAR23/RobertoAR23/assets/102274522/06de680c-46fe-4437-832c-d6872f41aaf3)
-![icons8-javascript-96](https://github.com/RobertoAR23/RobertoAR23/assets/102274522/903dc378-46be-422a-ade4-e9e3dc2ba396)
-![icons8-nodejs-96](https://github.com/RobertoAR23/RobertoAR23/assets/102274522/92075bb2-03b8-4a3b-8355-7168531a7e66)
-![icons8-css-100](https://github.com/RobertoAR23/RobertoAR23/assets/102274522/b90fb99e-5062-48cd-947f-6473077e0876)
-![icons8-postgres-96](https://github.com/RobertoAR23/RobertoAR23/assets/102274522/9e2941ed-1fa6-4b3e-8c14-b2d039acd79b)
-![icons8-reaccionar-80](https://github.com/RobertoAR23/RobertoAR23/assets/102274522/494ae2fb-cd34-4a77-8f60-5cb9b3d85fca)
-![317755_badge_html_html5_achievement_award_icon(1)](https://github.com/RobertoAR23/RobertoAR23/assets/102274522/f82703a2-a5cd-4b68-86fa-62025efe4993)
+Mi objetivo es seguir profundizando en arquitecturas modernas de frontend y backend, fortalecer buenas prácticas de desarrollo y escalar mis habilidades hacia soluciones más robustas, mantenibles y orientadas a producto.
 
-## Contactame
-Correo: Robertoarregui23@gmail.com
+## Tecnologías que manejo
 
-[Perfil de linkedin](https://www.linkedin.com/in/roberto-arregui-rosas-7a7803206/)
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="60" height="60"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="60" height="60"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" width="60" height="60"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="60" height="60"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="60" height="60"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="60" height="60"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="60" height="60"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="60" height="60"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="60" height="60"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="60" height="60"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="60" height="60"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="60" height="60"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="60" height="60"/>
+</p>
+
+## Contáctame
+
+Correo: robertoarregui23@gmail.com  
+[LinkedIn](https://www.linkedin.com/in/roberto-arregui-rosas-7a7803206/)
