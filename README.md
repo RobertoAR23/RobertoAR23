@@ -10,7 +10,7 @@ Mi objetivo es seguir profundizando en arquitecturas modernas de frontend y back
 
 ## Tecnologías que manejo
 
-<p align="left">
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="60" height="60"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="60" height="60"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" width="60" height="60"/>
@@ -24,7 +24,7 @@ Mi objetivo es seguir profundizando en arquitecturas modernas de frontend y back
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="60" height="60"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="60" height="60"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="60" height="60"/>
-</p>
+</div>
 
 ## Contáctame
 
